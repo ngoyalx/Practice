@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="0" stop="1490331896558" version="1.4.14" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <test-cases>
+        <test-case start="1490331888034" stop="1490331896289" status="passed">
+            <name>openbrowser[chrome,https://www.google.com]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="3552@XE-T-NITINGO.TestNG(13)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

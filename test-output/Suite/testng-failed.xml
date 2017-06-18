@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="browsername" value="ie"/>
+  <parameter name="url" value="https://www.google.com"/>
+  <test name="IE Test(failed)">
+    <parameter name="browsername" value="ie"/>
+    <parameter name="url" value="https://www.google.com"/>
+    <classes>
+      <class name="Xebia.SampleMavenProject.ParallelExecution">
+        <methods>
+          <include name="openbrowser" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Xebia.SampleMavenProject.ParallelExecution -->
+    </classes>
+  </test> <!-- IE Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

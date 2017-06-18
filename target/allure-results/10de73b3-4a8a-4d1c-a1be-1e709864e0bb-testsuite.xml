@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1475562479748" stop="1475562522119" version="1.4.14" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1475562479837" stop="1475562511482" status="passed">
+            <name>performanceMonitor_Firefox</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="30876@XE-T-NITINGO.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1475562511655" stop="1475562521992" status="passed">
+            <name>performanceMonitor_htmlunitdriver</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="30876@XE-T-NITINGO.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

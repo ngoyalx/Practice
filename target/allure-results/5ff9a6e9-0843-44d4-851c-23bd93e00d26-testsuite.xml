@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1490595682512" stop="1490595682924" version="1.4.14" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1490595682543" stop="1490595682549" status="pending">
+            <name>getjsonkeys</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="4092@XE-T-NITINGO.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1490595682551" stop="1490595682551" status="pending">
+            <name>readjson1</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="4092@XE-T-NITINGO.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1490595682551" stop="1490595682551" status="pending">
+            <name>writejsonobject</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="4092@XE-T-NITINGO.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1490595682552" stop="1490595682552" status="pending">
+            <name>readjsonarray</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="4092@XE-T-NITINGO.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1490595682595" stop="1490595682663" status="passed">
+            <name>readjsonfile</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="4092@XE-T-NITINGO.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

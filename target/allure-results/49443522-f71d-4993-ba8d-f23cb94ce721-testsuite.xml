@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1488431782809" stop="1488431783346" version="1.4.14" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1488431782923" stop="1488431782969" status="passed">
+            <name>testMethod[junit]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="7368@XE-T-NITINGO.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1488431783229" stop="1488431783238" status="passed">
+            <name>testMethod[testng]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="7368@XE-T-NITINGO.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

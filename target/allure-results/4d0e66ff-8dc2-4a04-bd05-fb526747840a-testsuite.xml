@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1480327194378" stop="1480327194813" version="1.4.14" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1480327194411" stop="1480327194419" status="pending">
+            <name>getjsonkeys</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="5280@XE-T-NITINGO.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1480327194420" stop="1480327194420" status="pending">
+            <name>readjson1</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="5280@XE-T-NITINGO.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1480327194421" stop="1480327194421" status="pending">
+            <name>writejsonobject</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="5280@XE-T-NITINGO.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1480327194474" stop="1480327194507" status="passed">
+            <name>readjsonarray</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="5280@XE-T-NITINGO.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

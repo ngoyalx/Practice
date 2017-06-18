@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests" thread-count="2">
+   <!-- <listeners>
+        <listener class-name="Xebia.SampleMavenProject.RetryListner"/>
+    </listeners> -->
+  <test name="Firefox Test">
+      <parameter name="browsername" value ="firefox"></parameter>
+      <parameter name="url" value="https://www.google.com"></parameter>
+    <classes>
+      <class name="Xebia.SampleMavenProject.ParallelExecution"/>
+    </classes>
+  </test>
+  <test name="chrome Test">
+      <parameter name="browsername" value ="chrome"></parameter>
+      <parameter name="url" value="https://www.google.com"></parameter>
+    <classes>
+      <class name="Xebia.SampleMavenProject.ParallelExecution"/>
+    </classes>
+  </test>
+  <test name="IE Test">
+      <parameter name="browsername" value ="ie"></parameter>
+      <parameter name="url" value="https://www.google.com"></parameter>
+    <classes>
+      <class name="Xebia.SampleMavenProject.ParallelExecution"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1490331853464" stop="1490331861698" version="1.4.14" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : chrome Test[browsername=chrome, url=https://www.google.com]</name>
+    <title>Suite : chrome Test[browsername=chrome, url=https://www.google.com]</title>
+    <test-cases>
+        <test-case start="1490331853572" stop="1490331861416" status="passed">
+            <name>openbrowser[chrome,https://www.google.com]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="XE-T-NITINGO"/>
+                <label name="thread" value="12428@XE-T-NITINGO.TestNG(13)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

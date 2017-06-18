@@ -1,0 +1,30 @@
+{
+  "content_item": {
+        "related_items": [
+      {
+        "headline": "CS-901-Headline: this new related item will be 1st.DO NOT delete/ update this test content item.",
+        "subheadline": "Sub Headline: 1st related item",
+        "brief": "Brief: 1st related items",
+        "relatedcontentitem_id": 74558358
+      }, {
+    "headline": "Headline: this new related item will be 5th",
+        "subheadline": "Sub Headline: 5th related item",
+        "brief": "Brief: 5th related items",
+        "relatedcontentitem_id": 74558360
+      } ,
+      {
+        "headline": "CS-901-Headline: this new related item will be 3rd.DO NOT delete/ update this test content item.",
+        "subheadline": "Sub Headline: 3rd related item",
+        "brief": "Brief: 3rd related items",
+        "relatedcontentitem_id": 74558359
+      }, {
+    "headline": "Headline: this new related item will be 4th",
+        "subheadline": "Sub Headline: 4th related item",
+        "brief": "Brief: 4th related items",
+        "relatedcontentitem_id": 74558361
+      }, {
+    "headline": "Headline: this new related item will be 2nd",
+        "subheadline": "Sub Headline: 2nd related item",
+        "brief": "Brief: 2nd related items",
+        "relatedcontentitem_id": 74558362
+      }  ]   }}

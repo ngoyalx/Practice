@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="3" name="Failed suite [Test]">
+  <listeners>
+    <listener class-name="Xebia.SampleMavenProject.RetryListner"/>
+  </listeners>
+  <test name="Command line test 9f51dafe-f107-4734-8bdb-ce2f145b6c41">
+    <classes>
+      <class name="Xebia.SampleMavenProject.TestNGTestClass1"/>
+    </classes>
+  </test> <!-- Command line test 9f51dafe-f107-4734-8bdb-ce2f145b6c41 -->
+</suite> <!-- Failed suite [Test] -->
