@@ -5,15 +5,11 @@ pipeline {
             steps{
                  echo 'code checkout'
             }
-           
-
         }
-
         stage('Integration Test'){
             steps{
                 echo 'Integration test'
             }
-
         }
     }
 }
