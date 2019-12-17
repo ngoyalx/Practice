@@ -15,9 +15,4 @@ pipeline {
 
         }
     }
-    post{
-        steps{
-            echo 'allure report generation'
-        }
-    }
 }
