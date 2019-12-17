@@ -1,16 +1,23 @@
 pipeline {
     stages{
         stage('Code Checkout'){
-            echo 'code checkout'
+            steps{
+                 echo 'code checkout'
+            }
+           
 
         }
 
         stage('Integration Test'){
-            echo 'Integration test'
+            steps{
+                echo 'Integration test'
+            }
 
         }
     }
     post{
-        echo 'allure report generation'
+        steps{
+            echo 'allure report generation'
+        }
     }
 }
